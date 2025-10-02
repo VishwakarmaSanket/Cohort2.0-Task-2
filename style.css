@@ -39,6 +39,8 @@ body {
 }
 
 .img {
+    position: absolute;
+    top: 20%;
     height: 40%;
     width: 100%;
 }
@@ -60,7 +62,7 @@ body {
 }
 
 #img3 {
-    top: 38%;
+    top: 72%;
     height: auto;
     width: 200px;
     position: absolute;
