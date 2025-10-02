@@ -38,6 +38,35 @@ body {
     background: url(/images/Autumn_Drop_2_-_Lookbook1_1920x.webp) no-repeat center center/cover;
 }
 
+.img {
+    height: 40%;
+    width: 100%;
+}
+
+#img1 {
+    height: auto;
+    width: 200px;
+    position: absolute;
+    right: 8%;
+    top: 12%;
+}
+
+#img2 {
+    z-index: 99;
+    height: auto;
+    width: 200px;
+    position: absolute;
+    right: 20%;
+}
+
+#img3 {
+    top: 38%;
+    height: auto;
+    width: 200px;
+    position: absolute;
+    right: 18%;
+}
+
 nav {
     height: 60px;
     width: 100%;
